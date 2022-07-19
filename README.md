@@ -1,7 +1,7 @@
 # module-1-horiseon-refactor
 
 ## About This Project
-[![Product Name Screen Shot][product-screenshot]](./assets/images/Screenshot.jpg)
+![Horiseon Screen Shot](./assets/images/Screenshot%20.jpg)
 
 The purpose of this code refactor is to streamline HTML and CSS code to improve accessibility and search engine optimization for this website.
 
